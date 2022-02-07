@@ -7,4 +7,4 @@
 
 ## Hovering the Navbar
 
-![Hovering the Navbar](output_images/hover_nav.png)
+![Hovering the Navbar](output_images/hoverNav.png)
